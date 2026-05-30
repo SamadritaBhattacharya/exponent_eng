@@ -1,6 +1,7 @@
 # Bus Charging Scheduler
 
 Event-driven simulation for scheduling electric bus charging along the Bengaluru–Kochi corridor.
+
 Deployed Link: https://exponenteng-bus-scheduler.streamlit.app
 
 ## Quick Start
